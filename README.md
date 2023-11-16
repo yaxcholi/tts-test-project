@@ -9,3 +9,12 @@ If you're using this for Discord I highly recommend you install a virtual audio 
 and make sure your echo cancellation is off so it doesn't mess with the tts
 
 Also if you are trying to run this script in vscode you might encounter some issues with the gui not loading at all so just run it in shell if you will...
+
+# Libraries to install:
+1) pyaudio
+2) sounddevice
+3) customtkinter
+4) voicevox-client
+5) asyncio
+
+Huge credit to: https://github.com/voicevox-client/python
