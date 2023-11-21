@@ -22,7 +22,8 @@ Huge credit to: https://github.com/voicevox-client/python
 5) asyncio
 
 # Direct Install
-Alternatively you can also install the zip file and run the program there directly without any python stuff
+Alternatively you can also install the zip file and run the program there directly without any python stuff but you'd still need to install voicevox engine
+
 
 
 
