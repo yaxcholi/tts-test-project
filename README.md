@@ -1,5 +1,5 @@
 # tts-test-project
-How to use:
+How to use: (Python)
 1) Install python 3.9 https://www.python.org/downloads/release/python-390/
 2) Install the required libraries (voicevox-client) is the most important one
 3) When using this script you must have voicevox engine running for TTS: https://voicevox.hiroshiba.jp
@@ -19,4 +19,6 @@ Please note if you try to put in any english text itll sound awful, this is mean
 4) voicevox-client
 5) asyncio
 
+# Direct Install
+Alternatively you can also install the zip file and run the program there directly without any python stuff
 Huge credit to: https://github.com/voicevox-client/python
