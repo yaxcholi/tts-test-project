@@ -11,6 +11,8 @@ and make sure your echo cancellation is off so it doesn't mess with the tts
 Also if you are trying to run this script in vscode you might encounter some issues with the gui not loading at all so just run it in shell if you will...
 
 Please note if you try to put in any english text itll sound awful, this is meant for japanese only
+Huge credit to: https://github.com/voicevox-client/python
+
 
 # Libraries to install:
 1) pyaudio
@@ -21,4 +23,7 @@ Please note if you try to put in any english text itll sound awful, this is mean
 
 # Direct Install
 Alternatively you can also install the zip file and run the program there directly without any python stuff
-Huge credit to: https://github.com/voicevox-client/python
+
+
+
+
